@@ -22,6 +22,8 @@ ANGGOTA 3 : MUHAMMAD LUTHFI ANANDA LUBIS - 221113040
 
 URL APLIKASI LIVE : https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221110796_students_mikroskil_ac_id/EpmlkIM5SvZBlOkTkAcGha8BUmvehK6D3leL-B4SZZAszA?e=qcF5Sx
 
+URL ONE DRIVE     : https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221110796_students_mikroskil_ac_id/ElOWeDHZ5sNMgSe19Ft4d5IBTsk-sZ5EfUNRk3mJzpOe_g?e=jJOZG7
+
 ### PETUNJUK PENGGUNAAN APLIKASI :
 
 1. Pada layar Home Page, terdapat beberapa tombol yaitu tombol Take Photo, Upload From Gallery, dan View History. Tombol Take Photo akan langsung mengambil foto dari kamera pada Smartphone, namun sebelum itu, pengguna wajib memberikan akses terlebih dahulu. Tombol Upload From Gallery berfungsi untuk mengakses gallery pada Smartphone dan mengambil foto yang hendak diprediksi umurnya. Tombol View History merupakan tombol untuk melihat riwayat dari foto-foto yang sudah diprediksi sebelumnya.
