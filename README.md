@@ -20,13 +20,13 @@ ANGGOTA 2 : PATRICK SANUSI     - 221110348
 
 ANGGOTA 3 : MUHAMMAD LUTHFI ANANDA LUBIS - 221113040
 
-URL APLIKASI LIVE : https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221110796_students_mikroskil_ac_id/EpmlkIM5SvZBlOkTkAcGha8BUmvehK6D3leL-B4SZZAszA?e=qcF5Sx
+URL APLIKASI LIVE : https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221110796_students_mikroskil_ac_id/IgBuYnOF2m7STLRQtQeQBlgGAftGHyGnc2ph7fYB5ydfe-4?e=DJu5Ev
 
 URL ONE DRIVE     : https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221110796_students_mikroskil_ac_id/ElOWeDHZ5sNMgSe19Ft4d5IBTsk-sZ5EfUNRk3mJzpOe_g?e=jJOZG7
 
 ### PETUNJUK PENGGUNAAN APLIKASI :
 
-1. Pada layar Home Page, terdapat beberapa tombol yaitu tombol Take Photo, Upload From Gallery, dan View History. Tombol Take Photo akan langsung mengambil foto dari kamera pada Smartphone, namun sebelum itu, pengguna wajib memberikan akses terlebih dahulu. Tombol Upload From Gallery berfungsi untuk mengakses gallery pada Smartphone dan mengambil foto yang hendak diprediksi umurnya. Tombol View History merupakan tombol untuk melihat riwayat dari foto-foto yang sudah diprediksi sebelumnya.
+1. Pada layar Home Page, terdapat beberapa tombol yaitu tombol Take Photo, Upload From Gallery, dan View History. Tombol Take Photo akan langsung mengambil foto dari kamera pada Smartphone, namun sebelum itu, pengguna wajib memberikan akses terlebih dahulu. Tombol Upload From Gallery berfungsi untuk mengakses gallery pada Smartphone dan mengambil foto yang hendak diprediksi umurnya. Tombol Real-time Detection untuk mendeteksi umur secara langsung menggunakan video camera, yang apabila pengguna hendak menyimpan hasil real-time tersebut, pengguna hanya perlu mengklik tombol kamera sekali saja. Tombol View History merupakan tombol untuk melihat riwayat dari foto-foto yang sudah diprediksi sebelumnya.
 
 2. Selanjutnya adalah layar Result, yang merupakan layar yang menampilkan hasil dari prediksi umur pada foto yang sudah diambil pengguna ataupun diupload pengguna dari layar Home Page. Pada layar ini, akan menampilak prediksi umur dari foto, lalu terdapat tombol Save Result untuk menyimpan data hasil prediksi tersebut ke dalam aplikasi dan Firebase Database dan Firebase Storage. Dibawah tombol Save Result terdapat tombol View History yang akan membawa pengguna menuju ke layar riwayat prediksi umur pada aplikasi. Apabila tombol Save Result ditekan, maka hasil prediksi umur tersebut berupa gambar, umur, dan kapan data tersebut diambil ,akan segera diupload ke dalam Firebase Database dan Firebase Storage.
 
